@@ -1,8 +1,9 @@
 
 # Restaurants :fork_and_knife:
 ### _The JS restaurant search engine_ 
----
 **by** [![N|Solid](http://fior.in/img/fiorin.png)](http://fior.in)
+
+## .: Backend :.
 
 The project was conceived as an API and the following technologies were used in the backend development: 
 
@@ -92,8 +93,51 @@ Using the get method returns the list of cuisines in the format:
 }
 ```
 
+---
+
+## .: Frontend :.
+
+#### Click [here to see the preview](http://fior.in/img/frontend.png)
+
+The project was conceived as a sample SPA (Single Page Application) and it's only to demonstrate the use of the API. It is not a full product.
+
+The following technologies were used in the frontend development: 
+
+| What? | For what? |
+| ------ | ------ |
+| Next.js | Node.js based architecture.|
+| Yarn | Dependency management. |
+| Javascript | Language used. |
+| Styled Components | CSS-in-JS. |
+| React-icons | Icon library. |
+
+### Execution requirements
+- Node.js 
+- Npm
+- Yarn
+
+### Preparing the environment
+
+To prepare the environment and run the application, run the commands:
+```sh
+$ cd frontend
+$ yarn install
+$ yarn start 
+```
+
+The application will be available at:
+```sh
+http://localhost:3001
+```
+
+**by** [![N|Solid](http://fior.in/img/fiorin.png)](http://fior.in)
+
+---
+
 #### Useful links
 - [Node.js](https://nodejs.org/en/)
 - [Nest.js](https://nestjs.com/)
 - [Yarn](https://yarnpkg.com/)
 - [Jest.js](https://jestjs.io/)
+- [Next.js](https://nextjs.org/)
+- [Styled Components](https://styled-components.com/)
