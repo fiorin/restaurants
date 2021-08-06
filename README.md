@@ -41,8 +41,12 @@ http://localhost:3000
 ### Tests
 For testing with Jest.js, run the commands:
 ```sh
-yarn add jest
 yarn test
+```
+
+To show test coverage run the commands:
+```sh
+yarn test:cov
 ```
 
 ### Endpoints
