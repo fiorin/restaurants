@@ -39,12 +39,12 @@ http://localhost:3000
 | GET | /restaurant/cuisines | Cuisines complete list. |
 
 ### Tests
-For testing with Jest.js, run the commands:
+For testing with Jest.js, run the command:
 ```sh
 yarn test
 ```
 
-To show test coverage run the commands:
+To show test coverage run:
 ```sh
 yarn test:cov
 ```
