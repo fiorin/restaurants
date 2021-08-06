@@ -11,7 +11,7 @@ const RestaurantList = ({ restaurants }) => {
     return (
       <RestaurantsUl>
         {restaurants?.map((restaurant) => (
-          <RestaurantListItem restaurant={restaurant}/>
+          <RestaurantListItem restaurant={restaurant} key={restaurant.name}/>
         ))}
       </RestaurantsUl>
     )
