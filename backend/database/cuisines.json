@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "name": "American"
+  },
+  {
+    "id": 2,
+    "name": "Chinese"
+  },
+  {
+    "id": 3,
+    "name": "Thai"
+  },
+  {
+    "id": 4,
+    "name": "Italian"
+  },
+  {
+    "id": 5,
+    "name": "French"
+  },
+  {
+    "id": 6,
+    "name": "Japanese"
+  },
+  {
+    "id": 7,
+    "name": "Turkish"
+  },
+  {
+    "id": 8,
+    "name": "Korean"
+  },
+  {
+    "id": 9,
+    "name": "Vietnamese"
+  },
+  {
+    "id": 10,
+    "name": "Indian"
+  },
+  {
+    "id": 11,
+    "name": "Spanish"
+  },
+  {
+    "id": 12,
+    "name": "Greek"
+  },
+  {
+    "id": 13,
+    "name": "Mexican"
+  },
+  {
+    "id": 14,
+    "name": "Malaysian"
+  },
+  {
+    "id": 15,
+    "name": "African"
+  },
+  {
+    "id": 16,
+    "name": "German"
+  },
+  {
+    "id": 17,
+    "name": "Indonesian"
+  },
+  {
+    "id": 18,
+    "name": "Russian"
+  },
+  {
+    "id": 19,
+    "name": "Other"
+  }
+]
