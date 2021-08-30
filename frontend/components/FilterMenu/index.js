@@ -4,6 +4,7 @@ import Link from "next/link";
 import theme from "../../config/theme";
 import styled from "styled-components";
 import Image from 'next/image';
+import Filter from '../Filter';
 
 const { colors } = theme;
 
@@ -44,7 +45,7 @@ const FilterMenu = () => (
       </Link>
     </MenuOptionsActionsLi>
     <MenuOptionsActionsLi>
-      <Link href="/?name=American">
+      <Link href="/?cuisine=American">
         <MenuIconButton>
           <FaBolt/>
           <ButtonDescription>
@@ -55,6 +56,8 @@ const FilterMenu = () => (
       </Link>
     </MenuOptionsActionsLi>
   </MenuOptionsActionsLiUl>
+  <Filter>
+  </Filter>
   <a href="http://fior.in" target="_blank">
 
     <div
